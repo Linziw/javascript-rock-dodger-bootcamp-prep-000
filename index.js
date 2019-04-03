@@ -1,5 +1,7 @@
 /**
- * Don't change these constants!
+ * not my code, need to read through this to figure out why mine isnt working**
+ * 
+ *
  */
 const DODGER = document.getElementById('dodger')
 const GAME = document.getElementById('game')
